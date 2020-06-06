@@ -14,7 +14,6 @@ feedparser==5.2.1
 Flask==1.1.2
 future==0.16.0
 get==2019.4.13
-gpg==1.12.0
 gunicorn==20.0.4
 h2o==3.30.0.3
 httplib2==0.11.3
