@@ -4,7 +4,7 @@ click==7.1.2
 colorama==0.4.3
 Flask==1.1.2
 future==0.18.2
-h2o==3.30.0.4
+h2o==3.30.0.3
 idna==2.9
 itsdangerous==1.1.0
 Jinja2==2.11.2
