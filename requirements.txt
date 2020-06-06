@@ -60,7 +60,6 @@ query-string==2019.4.13
 reportlab==3.5.23
 requests==2.21.0
 requests-unixsocket==0.1.5
-screen-resolution-extra==0.0.0
 SecretStorage==2.3.1
 simplejson==3.16.0
 sip==4.19.18
